@@ -17,8 +17,6 @@
 }
 
 body {
-  font-family: "Arial", sans-serif;
-  /* Changez pour votre choix de police de caractères de Google Fonts*/
   font-size: 1rem;
   line-height: 1.6;
   color: #333;
@@ -42,7 +40,7 @@ h1 {
   background-color: #e2e6d7;
   border: 20px solid #7fe6d3;
   border-radius: 5000rem;
-  width: 53rem;
+  width: 51rem;
   height: 12rem;
   margin: auto;
   margin-bottom: 2rem;
@@ -147,6 +145,8 @@ li {
   border: 20px solid #7fe6d3;
   padding: 3.5rem;
   margin-bottom: 2rem;
+  border-radius: 3rem;
+
 }
 
 
@@ -162,6 +162,7 @@ li {
   color: #404040;
   text-align: left;
   list-style: none;
+  
 }
 
 .Platsprincipaux {
@@ -171,6 +172,7 @@ li {
   border: 20px solid #7fe6d3;
   padding: 3.5rem;
   margin-bottom: 2rem;
+  border-radius: 3rem;
 }
 
 /*Desserts*/
@@ -180,5 +182,6 @@ li {
   text-decoration: none;
   border: 20px solid #7fe6d3;
   padding: 3.5rem;
+  border-radius: 3rem;
 }
 
